@@ -2,5 +2,5 @@ To solve in-place problems:
       
       modify existing array
             -negate the elements
-            -solve based on (elements and indices)
+            -solve using elements as indices
             -sort the array
